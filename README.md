@@ -1,2 +1,2 @@
-# 3D-Plane
+# 3DPlane
 3D Plane modeling with OpenGL
